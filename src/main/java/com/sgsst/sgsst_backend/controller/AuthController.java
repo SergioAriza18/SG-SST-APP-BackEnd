@@ -1,9 +1,9 @@
 package com.sgsst.sgsst_backend.controller;
 
-import com.sgsst.sgsst_backend.dto.request.AuthRequest;         
+import com.sgsst.sgsst_backend.dto.request.AuthRequest;
 import com.sgsst.sgsst_backend.dto.request.RegisterRequest;
-import com.sgsst.sgsst_backend.dto.response.MeResponse;
 import com.sgsst.sgsst_backend.dto.response.AuthResponse;
+import com.sgsst.sgsst_backend.dto.response.MeResponse;
 import com.sgsst.sgsst_backend.service.AuthService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
